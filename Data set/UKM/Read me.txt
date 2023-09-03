@@ -1,0 +1,7 @@
+
+https://github.com/muatazaldaweri/UKM-IDS20
+
+
+Muataz Salam Al Daweri, Salwani Abdullah, Khairul Akram Zainol Ariffin,
+“An adaptive method and a new dataset, UKM-IDS20, for the network
+intrusion detection system” in Comput. Commun., pp. 57-76, 2021.
